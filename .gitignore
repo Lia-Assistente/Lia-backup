@@ -1,0 +1,29 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+.venv*/
+venv/
+
+# Secrets - NEVER commit these
+.secrets/
+*_token*.json
+*_oauth*.json
+*.txt
+*.env
+
+# Config
+openclaw.json
+
+# Temp
+_tmp_*
+*.log
+
+# OS
+.DS_Store
+Thumbs.db
+
+# OpenClaw internal
+.cron_*
+.internal_*
+repos/
