@@ -1,0 +1,29 @@
+{
+  "pending_tasks": [
+    {
+      "id": "google-ads-api-2026-02-14",
+      "title": "Configurar API do Google Ads",
+      "description": "Aguardando liberação do Developer Token (atualmente em modo básico/teste)",
+      "status": "pending",
+      "priority": "high",
+      "created_at": "2026-02-14T00:42:00Z",
+      "notes": "Developer Token: -XLn0UmUhWfiGDWcJYu0qg. Aguardando Google aprovar mudança para Production.",
+      "requester": "Julio"
+    },
+    {
+      "id": "traficante-agent-2026-02-14",
+      "title": "Criar agente Traficante",
+      "description": "Agente especialista em Google Ads já criado, aguardando API funcionar",
+      "status": "in_progress",
+      "priority": "high",
+      "created_at": "2026-02-14T00:31:00Z",
+      "notes": "Agente criado em /home/julio/.openclaw/workspace/agents/traficante/",
+      "requester": "Julio"
+    }
+  ],
+  "last_check": "2026-02-14T00:45:00Z",
+  "notion_sync": {
+    "enabled": false,
+    "reason": "API Notion não configurada"
+  }
+}
